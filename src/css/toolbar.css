@@ -1,0 +1,31 @@
+.toolbar{
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    background-color: rgb(38, 37, 37);
+    
+}
+
+.title{
+    margin-left: 50vh;
+    justify-content: center;
+    color: white;
+
+}
+
+.button{
+    width: 20vh;
+    height:5vh;
+    margin: 5vh;
+    border-radius:15px;
+    background-color: beige;
+
+}
+
+.clickedButton{
+    width: 20vh;
+    height:5vh;
+    margin: 5vh;
+    border-radius:15px;
+    background-color: rgb(206, 50, 50);
+}
